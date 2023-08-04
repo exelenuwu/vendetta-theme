@@ -7,7 +7,7 @@ authors: [
 		 id: "476500263163658243"
 	}
 ],
-spec: 2;
+spec: 2,
 semanticColors: { 
 	"HEADER_PRIMARY": [ "#c9b9b7", "#c9b9b7", "#c9b9b7" ]
 },
