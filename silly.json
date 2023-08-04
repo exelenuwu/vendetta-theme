@@ -15,8 +15,8 @@ rawColors: {
 	"PRIMARY_500": "#ff1c86"
 },
 "background": {
-    "blur": 0.1, // background blur
+    "blur": 0.1,
     "url": "https://teriko.cl/assets/teriko-banner-9d204048.jpg",
-    "alpha": 1.0 // background opacity
+    "alpha": 1.0
     },
 }
