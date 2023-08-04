@@ -1,0 +1,25 @@
+{
+name: "just a silly theme";
+description: "just a silly theme made by silly alice";
+authors: [ 
+	{
+		 name: "alice";
+		 id: "476500263163658243";
+	}
+],
+spec: 2;
+semanticColors: { 
+									"HEADER_PRIMARY": [ "#c9b9b7", "#c9b9b7", "#c9b9b7" ]
+									            // [ Dark theme, light, amoled ]
+															// all #hex        
+};
+rawColors: { 
+						"PRIMARY_500": "#ff1c86"
+															// #hex
+},
+"background": {
+    "blur": 0.1, // background blur
+    "url": "https://teriko.cl/assets/teriko-banner-9d204048.jpg",
+    "alpha": 1.0 // background opacity
+    },
+}
