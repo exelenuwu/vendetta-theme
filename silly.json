@@ -1,17 +1,17 @@
 {
-name: "just a silly theme",
-description: "just a silly theme made by silly alice",
-authors: [ 
+"name": "just a silly theme",
+"description": "just a silly theme made by silly alice",
+"authors": [ 
 	{
 		 name: "alice",
 		 id: "476500263163658243"
 	}
 ],
-spec: 2,
-semanticColors: { 
+"spec": 2,
+"semanticColors": { 
 	"HEADER_PRIMARY": [ "#c9b9b7", "#c9b9b7", "#c9b9b7" ]
 },
-rawColors: { 
+"rawColors": { 
 	"PRIMARY_500": "#ff1c86"
 },
 "background": {
