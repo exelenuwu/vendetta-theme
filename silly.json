@@ -9,13 +9,10 @@ authors: [
 ],
 spec: 2;
 semanticColors: { 
-									"HEADER_PRIMARY": [ "#c9b9b7", "#c9b9b7", "#c9b9b7" ]
-									            // [ Dark theme, light, amoled ]
-															// all #hex        
+	"HEADER_PRIMARY": [ "#c9b9b7", "#c9b9b7", "#c9b9b7" ]
 };
 rawColors: { 
-						"PRIMARY_500": "#ff1c86"
-															// #hex
+	"PRIMARY_500": "#ff1c86"
 },
 "background": {
     "blur": 0.1, // background blur
