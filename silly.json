@@ -1,6 +1,6 @@
 {
-name: "just a silly theme";
-description: "just a silly theme made by silly alice";
+name: "just a silly theme",
+description: "just a silly theme made by silly alice",
 authors: [ 
 	{
 		 name: "alice",
@@ -10,7 +10,7 @@ authors: [
 spec: 2;
 semanticColors: { 
 	"HEADER_PRIMARY": [ "#c9b9b7", "#c9b9b7", "#c9b9b7" ]
-};
+},
 rawColors: { 
 	"PRIMARY_500": "#ff1c86"
 },
